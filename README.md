@@ -1,1 +1,1 @@
-# Brain_Altas_slice
+# Brain_Atlas_slice
