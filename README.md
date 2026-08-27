@@ -2,6 +2,7 @@
 
 <h4>
   This is the data of three standard sections (coronal、sagittal、Tramseverse) from the standard brain atlas.
+  <br>
   These tif slice images come with built-in brain region ROIs, allowing you to obtain specific brain region data based on the areas you are interested in
 </h4>
 
