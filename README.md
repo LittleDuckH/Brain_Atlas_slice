@@ -16,7 +16,7 @@
 </h4>
 
 <h4>
-  Thank you very much for your attention, and I appreciate your help in giving a star on the top right corner ⭐
+  Thank you very much for your attention, and I appreciate your help in giving a ⭐star on the top right corner 
 </h4>
 
 ---
